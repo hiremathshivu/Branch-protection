@@ -1,2 +1,2 @@
 # Branch-protection
-checking rule
+checking rule1
